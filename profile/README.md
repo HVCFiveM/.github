@@ -1,5 +1,6 @@
-## HVC FiveM
+## HVC Studios
 
-- HVC Is a Semi-Roleplay/Fragging British FiveM server
+- HVC Is a Semi-Serious British FiveM server
+- Written with our custom HVC Framework
 
-- [Discord](https://discord.gg/ukbr)
+- [Discord](https://discord.gg/hvc5m)
